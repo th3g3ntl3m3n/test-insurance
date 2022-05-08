@@ -12,3 +12,6 @@ This only require to build the form frontend so I created a 2 pages UI for the s
 
 Page 1 is be for Introduction 
 page 2 is for insurance form submission
+
+## live link for the project
+[href]https://test-insurance.vercel.app/
