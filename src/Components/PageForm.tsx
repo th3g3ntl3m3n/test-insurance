@@ -125,6 +125,7 @@ export const PageForm = ({ onBack }: { onBack: () => void }) => {
           />
 
           <button
+            onClick={onBack}
             disabled={nextDisabled}
             className="p-2 mt-4 bg-blue-600 text-white font-bold disabled:opacity-50 disabled:text-gray-300"
           >
