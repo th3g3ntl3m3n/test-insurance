@@ -10,7 +10,7 @@ export const Radio = ({
   className: string;
 }) => {
   let style = active
-    ? `border border-2 border-blue-400 shadow-lg shadow-blue-200`
+    ? `border border-2 border-blue-400 shadow-lg shadow-blue-200 text-blue-600 font-bold`
     : "border-2 border-transparent";
 
   let commonStyles = "cursor-pointer hover:shadow-lg flex-1 flex";
