@@ -4,7 +4,7 @@ import { PageStart } from "./Components/PageStart";
 import { PageForm } from "./Components/PageForm";
 
 function App() {
-  const [page, setPage] = useState(1);
+  const [page, setPage] = useState(0);
 
   return (
     <div className="w-screen h-screen bg-blue-100 p-4 grid place-items-center">
