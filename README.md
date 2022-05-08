@@ -1,6 +1,6 @@
 # test-insurance
 
-## technology used are
+## technologies used are
 - reactjs
 - tailwindcss
 - framer-motion
